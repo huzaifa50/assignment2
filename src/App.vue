@@ -33,7 +33,7 @@ export default {
   data() {
     return {
       users: [],
-      showComponent: 'dashboard',
+      showComponent: 'register',
       loginError: false,
     }
   },
